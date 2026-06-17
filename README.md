@@ -1,4 +1,5 @@
-# SafeCampus is an AI-powered emergency response ecosystem designed to enhance campus safety.
+# SafeCampus
+SafeCampus is an AI-powered emergency response ecosystem designed to enhance campus safety.
 
 Features:
 • Wearable SOS bracelet
